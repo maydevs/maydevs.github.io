@@ -1,0 +1,36 @@
+html {
+	height:100%;
+}
+
+body {
+	margin: 0;
+	font-family: Ubuntu, Raleway, Arial;
+}
+
+.container {
+	margin: 0;
+	width: 100%;
+	height: 100%;
+	background-image: url( "" );
+	background-size: cover;
+	position: absolute;
+	text-align: center;
+}
+
+.main { 
+	margin: auto;
+	padding-top: 5%;
+	
+	width: 50%;
+}
+
+.content {
+	text-align: left;
+}
+
+h1 {
+	font-family: Ubuntu, Raleway, Arial;
+	font-size: 3em;
+	margin: 0;
+	padding: 0;
+}
